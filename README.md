@@ -1,2 +1,2 @@
 # -Frendo
-Сайт для кофейни Frendo
+Сайт для Frendo
